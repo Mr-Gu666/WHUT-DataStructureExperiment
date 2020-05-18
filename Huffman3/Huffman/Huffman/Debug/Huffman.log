@@ -1,0 +1,4 @@
+﻿  Compress.cpp
+D:\HomeWork\数据结构实验\Huffman3\Huffman\Huffman\Compress.cpp(39,14): warning C4244: “初始化”: 从“std::streamoff”转换到“size_t”，可能丢失数据
+D:\HomeWork\数据结构实验\Huffman3\Huffman\Huffman\Compress.cpp(77,18): warning C4244: “初始化”: 从“std::streamoff”转换到“size_t”，可能丢失数据
+  Huffman.vcxproj -> D:\HomeWork\数据结构实验\Huffman3\Huffman\Debug\Huffman.exe
