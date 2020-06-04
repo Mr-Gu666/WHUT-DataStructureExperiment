@@ -1,0 +1,4 @@
+﻿  Graph.cpp
+D:\HomeWork\数据结构实验\Dijkstra\Dijkstra\Project1\Graph.cpp(54): warning C4715: “readVex”: 不是所有的控件路径都返回值
+D:\HomeWork\数据结构实验\Dijkstra\Dijkstra\Project1\Graph.cpp(93): warning C4715: “readEdge”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> D:\HomeWork\数据结构实验\Dijkstra\Dijkstra\Debug\Project1.exe
