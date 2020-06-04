@@ -3,13 +3,13 @@
 
 <h2>
     <ul>
-        <li><a id="Huffman">哈夫曼树</a></li>
-        <li><a id="Dijkstra">景区管理系统</a></li>
+        <li><a href="#Huffman">哈夫曼树</a></li>
+        <li><a href="#Dijkstra">景区管理系统</a></li>
     </ul>
 </h2>
 
 <h2>
-    <a href="#Huffman">哈夫曼树</a>
+    <a name="Huffman">哈夫曼树</a>
 </h2>
 
 <h4>
@@ -127,7 +127,7 @@ outFile.close();
 解压缩的代码要注意 00011010 这种有前置0的数据，为防止这种数据出现错误，要计算解压缩出来的编码有没有8位，不足8位，在编码前面要添加“0”
 
 <h2>
-    <a href="#Dijkstra">景区管理系统</a>
+    <a name="Dijkstra">景区管理系统</a>
 </h2>
 
 这个实验比上一个简单多啦！
